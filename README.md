@@ -1,20 +1,50 @@
-<h1 align="center">Hi 👋, I'm (Christoffer)</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+### Oi! Eu o Chris
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Christoffer-Mesquita&label=Profile%20views&color=0e75b6&style=flat" alt="Christoffer-Mesquita" /> </p>
 
-- 🔭 I’m currently working on **Axolutions**
+Sou apaixonado por desenvolvimento há seis anos, sempre estudando e evoluindo cada vez mais. Desde os primeiros passos até os desafios mais complexos, cada linha de código foi um degrau na minha jornada de aprendizado e evolução.
 
-- 🌱 I’m currently learning **Java, Nodejs, C++ and PHP**
+Atualmente cursando Sistema de Informação e Analise e Desenvolvimento de Sistemas na ITE ( Instituto Toledo de Ensino ) e em busca de novas oportunidades.
 
-- 👯 I’m looking to collaborate on [UnknownBot](https://github.com/obseletecode72/UnknownBot-Reworked-Version/)
 
-- 💬 Ask me about **C++**
+- Apesar de ter apenas 6 anos de aprendizado, trago uma dedicação e entusiasmo que me faz evoluir. - - --- 
+- nascido em Agudos - SP. Sempre fui apaixonado pela tecnologia, começando com C# para o desenvolvimento de automação em jogos eu fui criando expectativas e metas ao longo do tempo, sempre pensando em progredir e aumentar o meus conhecimentos.
 
-- 📫 How to reach me **assiscabron@gmail.com**
+<h3 align="center">Linguagens e Tecnologias</h3>
 
-<p align="left">
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<h3 align="center">Perfil</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Christoffer-Mesquita&radius=16&theme=tokyo-night&area=true&order=5" height="400" alt="activity-graph graph"  />
+</div>
+
+###
