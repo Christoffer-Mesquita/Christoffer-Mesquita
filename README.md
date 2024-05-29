@@ -6,8 +6,8 @@ Sou apaixonado por desenvolvimento há seis anos, sempre estudando e evoluindo c
 Atualmente cursando Sistema de Informação e Analise e Desenvolvimento de Sistemas na ITE ( Instituto Toledo de Ensino ) e em busca de novas oportunidades.
 
 
-- Apesar de ter apenas 6 anos de aprendizado, trago uma dedicação e entusiasmo que me faz evoluir. - - --- 
-- nascido em Agudos - SP. Sempre fui apaixonado pela tecnologia, começando com C# para o desenvolvimento de automação em jogos eu fui criando expectativas e metas ao longo do tempo, sempre pensando em progredir e aumentar o meus conhecimentos.
+- Apesar de ter apenas 6 anos de aprendizado, trago uma dedicação e entusiasmo que me fez progredir muito.
+- Nascido em Agudos - SP. Sempre fui apaixonado pela tecnologia, começando com C# para o desenvolvimento de automação em jogos eu fui criando expectativas e metas ao longo do tempo, sempre pensando em progredir e aumentar o meus conhecimentos.
 
 <h3 align="center">Linguagens e Tecnologias</h3>
 
