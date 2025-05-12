@@ -26,7 +26,7 @@ Sou um desenvolvedor Backend apaixonado por criar soluções robustas e escaláv
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📊 Estatísticas GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=christoffermesquita&show_icons=true&theme=dracula&locale=pt-br)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Christoffer-Mesquita&show_icons=true&theme=dracula&locale=pt-br)
 
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christoffermesquita)
